@@ -6,4 +6,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Отток клиентов телеком компании](customer churn) | Анализ и разработка модели оттока клиентов телеком компании | *Pandas, numpy, sklearn, catboost, lightgbm, matplotlib* |
+| [Отток клиентов телеком компании](https://github.com/aazaozerskaia/YaPraktikum/tree/main/customer%20churn) | Анализ и разработка модели оттока клиентов телеком компании | *Pandas, numpy, sklearn, catboost, lightgbm, matplotlib* |
