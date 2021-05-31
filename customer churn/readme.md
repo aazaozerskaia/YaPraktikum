@@ -1,5 +1,6 @@
 **!** Если проект **не открывается**, можно перейти по ссылке: https://nbviewer.jupyter.org/github/aazaozerskaia/YaPraktikum/blob/main/customer%20churn/%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.ipynb
 
+
 **Задача** - разработать модель оттока клиентов телеком компании  
 
 **Ключевые шаги**  
