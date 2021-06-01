@@ -1,5 +1,4 @@
-**!** Если проект **не открывается**, можно перейти по ссылке:
-https://nbviewer.jupyter.org/github/aazaozerskaia/YaPraktikum/blob/main/gold%20recovery/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0.ipynb
+**!** Если проект **не открывается**, можно [перейти по ссылке](https://nbviewer.jupyter.org/github/aazaozerskaia/YaPraktikum/blob/main/gold%20recovery/%D0%9A%D0%BE%D1%8D%D1%84%D1%84%D0%B8%D1%86%D0%B8%D0%B5%D0%BD%D1%82%20%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0.ipynb)
 
 
 **Задача** - подготовка прототипа модели ML для предсказания коэф-та восстановления золота
